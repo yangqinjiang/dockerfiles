@@ -1,0 +1,1 @@
+# 使用方式 docker run -it yangqinjiang/ubuntu-stress --vm 1 --verbose
